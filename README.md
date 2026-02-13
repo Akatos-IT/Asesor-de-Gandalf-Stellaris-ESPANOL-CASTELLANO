@@ -6,7 +6,7 @@ Asesor para el Stellaris con la voz de Gandalf, en las notificaciones y alguna m
 2. Descomprimes el ZIP
 3. Abres la carpeta, hasta abrir una que se llama "mod"
 4. Dentro de ella, verás una carpeta y un archivo.mod, los copias en la carpeta de tu Stellaris donde van los archivos de logs, etc. En la siguiente ubicación:
-C:\Users\*Tu Usuario*\Documents\Paradox Interactive\Stellaris\mod\*Aqui dentro*
+C:\Users\Tu Usuario\Documents\Paradox Interactive\Stellaris\mod\Aqui dentro
 (Nota, si no tienes la carpeta mod, dentro de Stellaris, la creas, es normal sino has puesto ningún mod antes.)
 5. Una vez hayas copiado la carpeta y el archivo.mod dentro de la carpeta \mod.
 6. Tendrás que entrar al launcher de Paradox e ir a "Lotes de juego" --> (arriba derecha) "AÑADIR MÁS MODS". Ahí saldrá, lo seleccionas y añades.
