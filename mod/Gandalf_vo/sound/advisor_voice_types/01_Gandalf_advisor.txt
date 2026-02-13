@@ -11,6 +11,7 @@
 #
 #	weight = {}				# scripted weight, supporting add and factor, trigger scope this=country. default: { base = 0 }
 # }
+#Akatos-IT
 
 Gandalf_advisor = {
 	name = "SETTINGS_VOICE_TYPE_Gandalf_advisor"
@@ -19,4 +20,5 @@ Gandalf_advisor = {
 	weight = {
 		base = 0
 	}
+
 }
