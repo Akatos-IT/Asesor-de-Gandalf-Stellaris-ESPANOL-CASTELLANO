@@ -1,4 +1,4 @@
-########## GANDALF ADVISOR - SOUNDGROUP (57 archivos)
+########## GANDALF ADVISOR - SOUNDGROUP (60 archivos)
 
 soundgroup = {
     name = Gandalf_advisor
@@ -59,7 +59,7 @@ soundgroup = {
         name = "advisor_notification_construction_complete_01"
         file = "vo/Gandalf_advisor/advisor_notification_construction_complete_01.wav"
     }
-    #añadido_02:
+    #aÃ±adido_02:
     soundoverride = {
         name = "advisor_notification_construction_complete_02"
         file = "vo/Gandalf_advisor/advisor_notification_construction_complete_02.wav"
@@ -88,7 +88,7 @@ soundgroup = {
         name = "advisor_notification_enemy_invasion_defeated_01"
         file = "vo/Gandalf_advisor/advisor_notification_enemy_invasion_defeated_01.wav"
     }
-    #añadido_02:
+    #aÃ±adido_02:
     soundoverride = {
         name = "advisor_notification_enemy_invasion_defeated_02"
         file = "vo/Gandalf_advisor/advisor_notification_enemy_invasion_defeated_02.wav"
@@ -249,7 +249,7 @@ soundgroup = {
         name = "advisor_notification_wormhole_station_lost_01"
         file = "vo/Gandalf_advisor/advisor_notification_wormhole_station_lost_01.wav"
     }
-    #añadidos_01:
+    #aÃ±adidos_01:
      soundoverride = {
         name = "advisor_tutorial_agenda_ready_01"
         file = "vo/Gandalf_advisor/advisor_tutorial_agenda_ready_01.wav"
@@ -262,4 +262,5 @@ soundgroup = {
         name = "advisor_tutorial_agenda_available_01"
         file = "vo/Gandalf_advisor/advisor_tutorial_agenda_available_01.wav"
     }
+
 }
